@@ -12,7 +12,7 @@ The project is implemented using **Python and Jupyter Notebook**.
 ## Open Report in Git Pages
 
 ```
-https://github.com/Ishanhirani11/AI_Job_Market_Analysis.git
+https://ishanhirani11.github.io/AI_Job_Market_Analysis/
 ```
 
 ---
