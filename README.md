@@ -12,7 +12,7 @@ The project is implemented using **Python and Jupyter Notebook**.
 ## Open Report in Git Pages
 
 ```
-https://g00562.github.io/EDA_AI_Market/
+https://github.com/Ishanhirani11/AI_Job_Market_Analysis.git
 ```
 
 ---
@@ -141,7 +141,7 @@ Some insights that can be derived from this analysis include:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/g00562/EDA_AI_Market.git
+git clone https://github.com/Ishanhirani11/AI_Job_Market_Analysis.git
 ```
 
 ### 2. Navigate to the project folder
